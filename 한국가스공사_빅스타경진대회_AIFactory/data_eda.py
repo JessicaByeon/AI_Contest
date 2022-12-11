@@ -82,8 +82,3 @@ np.save(path+'mean_data.npy',arr=total)
 
 
 
-
-
-
-
-
